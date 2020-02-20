@@ -1,6 +1,6 @@
 # ECG-Heartbeat-Classification
 
-![ecg.jpg](picture\ecg.jpg)
+![ecg.jpg](picture/ecg.jpg)
 
 Electrocardiography is the process of producing an electrocardiogram (ECG or EKG), a recording – a graph of voltage versus time – of the electrical activity of the heart using electrodes placed on the skin. ECG is a very important and significant tool in heart disease diagnoses.
 
